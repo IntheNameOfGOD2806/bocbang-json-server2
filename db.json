@@ -215,35 +215,35 @@
     },
     {
       "id": "1",
-      "time": "10:00 AM",
+      "time": "10:00 AM","represent": 1,
       "representName": "meeting 1",
       "passage": "Anh trai là người mà em yêu quý và thân thiết nhất trong gia đình. Năm nay anh trai của em 16 tuổi, hiện là học sinh lớp 10 tại trường chuyên của thành phố. Anh ấy cao 1m68, nặng 55kg, lại thường xuyên chơi thể thao nên vóc dáng rất cân đối, rắn chắc. Trong nhà, anh trai là người có ngoại hình giống với bố nhất. Từ cái trán cao đến hàng lông mày đậm, đôi mắt một mí và cả chiếc mũi dọc dừa nữa. Duy chỉ có khuôn miệng của anh là trông giống mẹ mà thôi. Phải nói rằng, anh của em là một chàng trai có ngoại hình rất ưa nhìn. Đặc biệt, mỗi khi mỉm cười, anh ấy sẽ trở nên rất đáng yêu, giống như chú golden lớn vậy. Giống như vẻ bề ngoài, anh trai em là một người rất hiền lành và dễ mến. Anh ấy học tập rất chăm chỉ và nghe lời bố mẹ. Ngoài giờ học, anh ấy dành thời gian giúp bố mẹ các công việc nhà và đưa đón em đến trường. Đặc biệt, anh ấy còn là người rất tinh tế và quan tâm đến cảm xúc của người khác. Vì vậy mà em rất thích tâm sự với anh. Anh ấy sẽ nghiêm túc lắng nghe và cùng em tìm ra hướng giải quyết tốt nhất. Đối với em, anh trai như một người bạn và một người thầy vậy. Em mong rằng, khi lớn lên mình có thể trở thành một chàng trai tuyệt vời giống như anh.",
       "summmary": "Anh trai là người mà em yêu quý nhất trong gia đình. Năm nay 16 tuổi, anh học lớp 10 tại trường chuyên, cao 1m68, nặng 55kg, vóc dáng cân đối nhờ chơi thể thao. Anh có ngoại hình giống bố, đặc biệt là trán cao, lông mày đậm, mắt một mí và mũi dọc dừa, nhưng miệng giống mẹ. Anh rất hiền lành, dễ mến, chăm chỉ học tập, nghe lời bố mẹ, hay giúp đỡ việc nhà và quan tâm đến cảm xúc của mọi người. Anh luôn lắng nghe và đưa ra lời khuyên khi em tâm sự, là người bạn và người thầy của em. Em mong lớn lên sẽ được như anh."
     },
     {
       "id": "2",
-      "time": "",
+      "time": "","represent": 1,
       "representName": "Jane Smith",
       "passage": "Cô Phương là một nữ bác sĩ có ngoại hình thanh tú nhất mà em từng thấy. Trông cô trạc tuổi mẹ em mà lại không quá gầy, không quá béo, dáng người rất cân đối. Gương mặt cô hình trái xoan, mũi cao, đôi mắt to và môi đỏ, hay cười. Có lẽ cô sinh ra như để gán lấy vị trí làm bác sĩ cho cuộc sống vậy! Nước da cô hồng hào, mái tóc dài suôn mượt được búi gọn trong một chiếc kẹp tóc nhỏ màu xanh. Hàng ngày, cô thường mặc một chiếc áo dài màu trắng dành riêng cho bác sĩ, trông rất lịch sự và sang trọng. Trên cổ, cô đeo một chiếc ống nghe, như sẵn sàng thăm khám cho mọi người bệnh mà cô gặp. Lúc tiếp đón bệnh nhân, cô còn cẩn thận lấy chiếc khẩu trang y tế từ túi áo ra, che kín mặt, để lộ đôi mắt biết cười của mình. nnnnnnnnnnnnnnnnnnnnn",
       "summmary": "Cô Phương là một nữ bác sĩ có ngoại hình thanh tú, với dáng người cân đối, gương mặt trái xoan, mũi cao, mắt to và môi đỏ. Cô có nước da hồng hào và mái tóc dài suôn mượt, thường búi gọn trong một chiếc kẹp tóc màu xanh. Cô mặc áo dài trắng, lịch sự và sang trọng, luôn đeo ống nghe trên cổ, sẵn sàng thăm khám cho bệnh nhân. Khi tiếp đón bệnh nhân, cô cẩn thận đeo khẩu trang nhưng vẫn để lộ đôi mắt biết cười."
     },
     {
       "id": "3",
-      "time": "",
+      "time": "","represent": 1,
       "representName": "Jane Smith",
       "passage": "Cô Phương là một nữ bác sĩ có ngoại hình thanh tú nhất mà em từng thấy. Trông cô trạc tuổi mẹ em mà lại không quá gầy, không quá béo, dáng người rất cân đối. Gương mặt cô hình trái xoan, mũi cao, đôi mắt to và môi đỏ, hay cười. Có lẽ cô sinh ra như để gán lấy vị trí làm bác sĩ cho cuộc sống vậy! Nước da cô hồng hào, mái tóc dài suôn mượt được búi gọn trong một chiếc kẹp tóc nhỏ màu xanh. Hàng ngày, cô thường mặc một chiếc áo dài màu trắng dành riêng cho bác sĩ, trông rất lịch sự và sang trọng. Trên cổ, cô đeo một chiếc ống nghe, như sẵn sàng thăm khám cho mọi người bệnh mà cô gặp. Lúc tiếp đón bệnh nhân, cô còn cẩn thận lấy chiếc khẩu trang y tế từ túi áo ra, che kín mặt, để lộ đôi mắt biết cười của mình.",
       "summmary": "Cô Phương là một nữ bác sĩ có ngoại hình thanh tú, với dáng người cân đối, gương mặt trái xoan, mũi cao, mắt to và môi đỏ. Cô có nước da hồng hào và mái tóc dài suôn mượt, thường búi gọn trong một chiếc kẹp tóc màu xanh. Cô mặc áo dài trắng, lịch sự và sang trọng, luôn đeo ống nghe trên cổ, sẵn sàng thăm khám cho bệnh nhân. Khi tiếp đón bệnh nhân, cô cẩn thận đeo khẩu trang nhưng vẫn để lộ đôi mắt biết cười."
     },
     {
       "id": "4",
-      "time": "",
+      "time": "","represent": 1,
       "representName": "Jane Smith",
       "passage": "Cô Phương là một nữ bác sĩ có ngoại hình thanh tú nhất mà em từng thấy. Trông cô trạc tuổi mẹ em mà lại không quá gầy, không quá béo, dáng người rất cân đối. Gương mặt cô hình trái xoan, mũi cao, đôi mắt to và môi đỏ, hay cười. Có lẽ cô sinh ra như để gán lấy vị trí làm bác sĩ cho cuộc sống vậy! Nước da cô hồng hào, mái tóc dài suôn mượt được búi gọn trong một chiếc kẹp tóc nhỏ màu xanh. Hàng ngày, cô thường mặc một chiếc áo dài màu trắng dành riêng cho bác sĩ, trông rất lịch sự và sang trọng. Trên cổ, cô đeo một chiếc ống nghe, như sẵn sàng thăm khám cho mọi người bệnh mà cô gặp. Lúc tiếp đón bệnh nhân, cô còn cẩn thận lấy chiếc khẩu trang y tế từ túi áo ra, che kín mặt, để lộ đôi mắt biết cười của mình.",
       "summmary": "Cô Phương là một nữ bác sĩ có ngoại hình thanh tú, với dáng người cân đối, gương mặt trái xoan, mũi cao, mắt to và môi đỏ. Cô có nước da hồng hào và mái tóc dài suôn mượt, thường búi gọn trong một chiếc kẹp tóc màu xanh. Cô mặc áo dài trắng, lịch sự và sang trọng, luôn đeo ống nghe trên cổ, sẵn sàng thăm khám cho bệnh nhân. Khi tiếp đón bệnh nhân, cô cẩn thận đeo khẩu trang nhưng vẫn để lộ đôi mắt biết cười."
     },
     {
       "id": "5",
-      "time": "",
+      "time": "","represent": 1,
       "representName": "Jane Smith",
       "passage": "Cô Phương là một nữ bác sĩ có ngoại hình thanh tú nhất mà em từng thấy. Trông cô trạc tuổi mẹ em mà lại không quá gầy, không quá béo, dáng người rất cân đối. Gương mặt cô hình trái xoan, mũi cao, đôi mắt to và môi đỏ, hay cười. Có lẽ cô sinh ra như để gán lấy vị trí làm bác sĩ cho cuộc sống vậy! Nước da cô hồng hào, mái tóc dài suôn mượt được búi gọn trong một chiếc kẹp tóc nhỏ màu xanh. Hàng ngày, cô thường mặc một chiếc áo dài màu trắng dành riêng cho bác sĩ, trông rất lịch sự và sang trọng. Trên cổ, cô đeo một chiếc ống nghe, như sẵn sàng thăm khám cho mọi người bệnh mà cô gặp. Lúc tiếp đón bệnh nhân, cô còn cẩn thận lấy chiếc khẩu trang y tế từ túi áo ra, che kín mặt, để lộ đôi mắt biết cười của mình.",
       "summmary": "Cô Phương là một nữ bác sĩ có ngoại hình thanh tú, với dáng người cân đối, gương mặt trái xoan, mũi cao, mắt to và môi đỏ. Cô có nước da hồng hào và mái tóc dài suôn mượt, thường búi gọn trong một chiếc kẹp tóc màu xanh. Cô mặc áo dài trắng, lịch sự và sang trọng, luôn đeo ống nghe trên cổ, sẵn sàng thăm khám cho bệnh nhân. Khi tiếp đón bệnh nhân, cô cẩn thận đeo khẩu trang nhưng vẫn để lộ đôi mắt biết cười."
@@ -655,7 +655,7 @@
       "id": "185de189-c657-48ab-a0e6-1e56b3fc53f5",
       "time": "2024-12-11 00:42:27",
       "passage": "Lồi lồi.A lô.",
-      "represent": 1,
+      "represent": 2,
       "representName": "Đại biểu A",
       "representAvatar": "https://i.pravatar.cc/150?img=1",
       "note": "Lồi lồi.A lô."
@@ -709,7 +709,7 @@
       "id": "42dc9e23-5e81-4ad3-a45c-b388fc1e7c26",
       "time": "2024-12-11 09:18:57",
       "passage": "Là điều kiện với em.Phẩy.",
-      "represent": 1,
+      "represent": 2,
       "representName": "Đại biểu A",
       "representAvatar": "https://i.pravatar.cc/150?img=1",
       "note": "Là điều kiện với em.Phẩy."
